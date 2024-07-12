@@ -1,7 +1,7 @@
 # Zomato Restaurants Analysis Dashboard
 
 ## Problem Statement
-Analyze Zomato restaurant data to understand distribution by city, cuisine types, service offerings, and ratings.
+A comprehensive Power BI project focused on analyzing and visualizing detailed insights from Zomato restaurant data.
 
 ## Data Collection
 Dataset includes 19 columns such as RestaurantID, RestaurantName, CountryCode, City, Address, Cuisines, Price_range, Votes, Average_Cost_for_two, and Rating.
