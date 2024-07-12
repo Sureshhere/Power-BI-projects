@@ -19,3 +19,10 @@ Dataset includes 19 columns such as RestaurantID, RestaurantName, CountryCode, C
 - **Highest Count of RestaurantID:** New Delhi leads with 5,473 restaurants, followed by Gurgaon and Noida.
 - **Dominance of New Delhi:** New Delhi constitutes 63.26% of the total Count of RestaurantID.
 - **City-wise Distribution:** Restaurant counts across 43 cities range from 1 to 5,473.
+
+## Dashboard preview
+
+### You can interact with the Dashboard <a target="_blank" href="https://app.powerbi.com/viewr=eyJrIjoiYzRiYTc0ZWEtZjY3NS00OTc5LTg2YTctYTVhMDBlMzUxYTIwIiwidCI6IjBkMWNkMjQ3LTFlNTgtNGU0Zi05MDQ3LWNhNDhjNzNiMjg0OSJ9">here</a>
+
+#### Screenshot
+<img src="https://github.com/Sureshhere/Power-BI-projects/blob/main/Zomato%20Restaurant%20Analysis%20Dashboard/zomato-dashboard.png"/>
