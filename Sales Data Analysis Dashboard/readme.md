@@ -25,6 +25,8 @@ Power BI dashboard components:
 ## Dashboard preview
 ### You can interact with the Dashboard <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiMTk2NDk1OGYtMWVjNS00MjJiLTg3YTktOWM2Yjg1OWExZDA3IiwidCI6IjBkMWNkMjQ3LTFlNTgtNGU0Zi05MDQ3LWNhNDhjNzNiMjg0OSJ9">here</a>
 
+#### Screenshot
+<img src="https://github.com/Sureshhere/Power-BI-projects/blob/main/Sales%20Data%20Analysis%20Dashboard/Sales%20Data%20Analysis.png"/>
 
 ## Insights
 1. **Top Country:** The USA had the highest quantity ordered (35,659 units), 7,177.35% higher than Ireland's 490 units.
